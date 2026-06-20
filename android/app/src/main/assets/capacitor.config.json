@@ -1,0 +1,11 @@
+{
+	"appId": "la.fieldgis.app",
+	"appName": "Laos Field GIS",
+	"webDir": "dist",
+	"android": {
+		"allowMixedContent": false
+	},
+	"server": {
+		"androidScheme": "https"
+	}
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Laos Field GIS</string>
+    <string name="title_activity_main">Laos Field GIS</string>
+    <string name="package_name">la.fieldgis.app</string>
+    <string name="custom_url_scheme">la.fieldgis.app</string>
+</resources>
